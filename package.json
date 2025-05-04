@@ -1,0 +1,15 @@
+{
+  "name": "refactoring-excercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@tea0112-github:tea0112/refactoring-excercise.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
